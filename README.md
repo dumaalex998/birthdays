@@ -14,8 +14,4 @@ Sadly, we don't have Alan Turing's birthday.
 
 Code is taken from the nice [practice Python](https://www.practicepython.org/) website from Michele Pratusevich and is released with a [CC-BY](https://www.practicepython.org/about/) license!
 
-I am Leo, and this is a new Read Me!
-
-And I’m Federico and I modified the README!
-
-And I'm Margherita and I modified README!
+Margherita: I try to push a new file after commit.
