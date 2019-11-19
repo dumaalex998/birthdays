@@ -1,5 +1,5 @@
 '''
-This module returns the birthday of the person passed in input
+This module returns the birthday of the person passed in input, this is the first docstring
 '''
 birthdays = {
     'Albert Einstein': '03/14/1879',
